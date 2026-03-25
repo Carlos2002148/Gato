@@ -16,4 +16,4 @@ The Cat es una plataforma de juego que permite a los usuarios competir en el cla
 
 ## Imagenes
 
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/e3e21722-d005-4f08-bfc7-8a12411346b1" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/e3e21722-d005-4f08-bfc7-8a12411346b1" />
