@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177706685422",
+    "project_id": "gatot-8234c",
+    "storage_bucket": "gatot-8234c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177706685422:android:711e8b811aaa68874df4ff",
+        "android_client_info": {
+          "package_name": "com.example.untitled4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbyo4u8Q7UmBtH_3jZa25Umm5mRR22yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
