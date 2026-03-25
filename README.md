@@ -2,10 +2,16 @@
 
 Aplicacion de Gato (Tic-Tac-Toe) multijugador en tiempo real desarrollada para la materia de Programacion de Sistemas III.
 
-## Descripcion
+## Caracteristicas Principales
 
-The Cat es una plataforma de juego que permite a los usuarios competir en el clasico juego del Gato a traves de salas privadas. Utiliza una arquitectura sincronizada para el manejo de turnos y un diseño visual basado en tonos pastel denominado Clean and Soft.
-
+* Autenticacion en Tiempo Real: Registro e inicio de sesion de usuarios mediante Firebase Auth para mantener perfiles persistentes.
+* Sistema de Salas Privadas: Generacion de codigos unicos de 6 caracteres que permiten la conexion exclusiva entre dos jugadores.
+* Sincronizacion Multiplataforma: Manejo de estados del tablero, turnos y movimientos sincronizados instantaneamente a traves de Cloud Firestore.
+* Interfaz "Clean and Soft": Diseño visual moderno basado en una paleta de colores pastel (Turquesa y Coral) con componentes redondeados y minimalistas.
+* Ranking Global: Visualizacion de los 10 jugadores con mayor numero de victorias acumuladas en la base de datos.
+* Gestion de Resultados: Pantallas de fin de juego con animaciones de escala y transicion segun el desenlace (Victoria, Derrota o Empate).
+* Persistencia de Datos: Actualizacion automatica del record de victorias en el perfil del usuario tras cada partida ganada.
+* Arquitectura Limpia: Centralizacion de estilos y colores en una clase independiente para facilitar el mantenimiento estetico de la aplicacion.
 ## Tecnologias Utilizadas
 
 * Flutter: Framework principal para el desarrollo de la interfaz de usuario.
